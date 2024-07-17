@@ -1,6 +1,9 @@
 # Data
 /data/
 
+# Course Materials
+/Course_Materials_All
+
 # Mac OS-specific storage files
 .DS_Store
 
